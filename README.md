@@ -1,1 +1,1 @@
-# TiktakGame
+# Mini project
